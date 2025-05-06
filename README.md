@@ -33,9 +33,8 @@ npm run build
 
 Inspired by **Scrimba React Projects**.
 
-## License
+![App Preview](./src/assets/final.png)
 
-This project is open-source under the [MIT License](LICENSE).
 <!--
 # React + Vite
 
